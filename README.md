@@ -11,22 +11,22 @@
 #Структура
 
 #Задача 1: Количество неактивных клиентов с балансом > 100000
-Файл: `sql/01_inactive_clients.sql`
+Файл: `sql/task_1_inactive_clients.sql`
 
 #Задача 2: Средний кредитный рейтинг по странам
-Файл: `sql/02_avg_credit_score.sql`
+Файл: `sql/task_2_average_credit_score.sql`
 
 # Задача 3: Процент ушедших клиентов по типам карт
-Файл: `sql/03_churn_rate.sql`
+Файл: `sql/task_3_churn_rate.sql`
 
 # Задача 4: Сравнение зарплаты со средней по стране
-Файл: `sql/04_salary_comparison.sql`
+Файл: `sql/task_4_salary_comparison.sql`
 
 # Задача 5: Топ-10 по зарплатам с гендерным анализом
-Файл: `sql/05_top_salary_gender.sql`
+Файл: `sql/task_5_top_salary_gender.sql`
 
 # Задача 6: Страны с неполным набором типов карт
-Файл: `sql/06_missing_card_types.sql`
+Файл: `sql/task_6_missing_card_types.sql`
 
 # Задача Написать программу: Подсчет клиентов (Python)
 Файл: `scripts/count_clients.py`
